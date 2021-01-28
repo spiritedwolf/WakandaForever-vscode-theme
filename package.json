@@ -1,0 +1,36 @@
+{
+    "name": "wakandaforever-theme",
+    "displayName": "Wakanda Forever Theme",
+    "description": "This is a small tribute to our beloved Chadwick Aaron Boseman who is no more, But I'm his huge fan (Although I love IronMan the most, #Team Tony Rocks).",
+    "version": "1.0.0",
+    "publisher": "Spiritedwolf",
+  "author": {
+    "name": "Shubham Singh"
+  },
+  "engines": {
+    "vscode": "^1.47.3"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Spirit Theme",
+    "Dark Theme",
+    "VSCode SuperHero",
+    "vsCodeHero",
+    "Wakanda",
+    "wakanda forever",
+    "blackpanther",
+    "marvel",
+    "avenger"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WakandaForever Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WakandaForever-color-theme.json"
+      }
+    ]
+  }
+}
