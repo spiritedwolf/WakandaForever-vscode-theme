@@ -13,9 +13,23 @@ This theme is part of my college exercise for WDDM-115 course.
 1. Select the Manage at (bottom left) > Color Theme ＞ WakandaForever Theme
 1. Please Rate five-stars if you like
 
+## Screenshots
+
+The main view
+
+![](images/main.png)
+
+I have also added the wakanda special shadow effect
+
+![](images/shadow.png)
+
+The auto-suggestion dropdown is preety dope too now.
+
+![](images/suggestion.png)
+
 ## Issues & Suggestions
 
-For any issues or suggestions, please use [GitHub issues](https://github.com/spiritedwolf/wakandaforever-vscode-theme/issues).
+For any issues or suggestions, please use [GitHub issues](https://github.com/spiritedwolf/WakandaForever-vscode-theme/issues).
 
 ## Special Thanks
 
