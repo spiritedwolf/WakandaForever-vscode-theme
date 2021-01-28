@@ -1,3 +1,5 @@
+![](images/wakanda.png)
+
 # WakandaForever Theme for VS Code
 
 Hello Avenger Fan, Yes you have come to the right place. Thanks for checking out my VS Code theme. Please show your love by installing the theme and let me know if you like it.
@@ -33,7 +35,6 @@ For any issues or suggestions, please use [GitHub issues](https://github.com/spi
 
 ## Special Thanks
 
-Want to learn how to make your own theme?? Check out this video:
-
-[VSCode API Reference](https://code.visualstudio.com/api/references/theme-color)
-[Theme Inspiration](https://github.com/robb0wen/synthwave-vscode)
+[VSCode API Reference](https://code.visualstudio.com/api/references/theme-color)<br>
+[Theme Inspiration](https://github.com/robb0wen/synthwave-vscode)<br>
+[Wakanda Forever logo](https://www.pngitem.com/middle/JhRTbb_watchcat-wakanda-wednesday-black-panther-wakanda-forever-png/) 
